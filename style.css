@@ -52,7 +52,7 @@
 
 15. PAGE TOP BAR (left & right content)
 
-16. LOGO ( company identify  symbol )
+16. ( company identify  symbol )
 
 17. MAIN BAR ( place logo & main-navigation )
 
@@ -12028,7 +12028,7 @@ ol.commentlist li .description p {
     top: 0;
     opacity: 1;
     z-index: 999999999;
-    background-image: url(../images/loading.svg);
+    background-image: url(https://cdn.jsdelivr.net/npm/loading-svg@1.0.0/loading-spin.svg);
     background-repeat: no-repeat;
     background-size: 100px;
     background-position: center;
